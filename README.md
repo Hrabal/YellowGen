@@ -9,7 +9,9 @@ name [space] [comma-separater halftones between each scale note]
 Then import Song class from yellow.py, init with params and call make method. It will make a .mid file called "output.mid"
 Example:
 >>> from yellow import Song
+
 >>> my_new_song = Song(80, ['blues', 'orientale'], 3)
+
 >>> my_new_song.make()
 
 Params of Song are:
