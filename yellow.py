@@ -152,5 +152,5 @@ class Song(object):
                     time += note.duration
             MyMIDI.writeFile(f)
 
-test = Song(80, ['blues', 'enigmatica', 'orientale'], 6)
-test.make()
+#test = Song(80, ['blues', 'enigmatica', 'orientale'], 6)
+#test.make()
