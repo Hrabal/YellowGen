@@ -1,5 +1,5 @@
 # YellowGen
-Music Random Generator
+Random Music Generator
 
 Put your favourite musical scales in scales.txt.
 Example Diatonic Major scale:
